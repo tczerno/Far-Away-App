@@ -90,7 +90,6 @@ input {
   font-weight: 700;
   margin: 0 0.8rem;
 }
-
 .list ul {
   list-style: none;
   width: 80%;
@@ -102,19 +101,16 @@ input {
   justify-content: center;
   align-content: start;
 }
-
 .list li {
   display: flex;
   align-items: center;
   gap: 1.2rem;
 }
-
 input[type="checkbox"] {
   height: 2rem;
   width: 2rem;
   accent-color: #e5771f;
 }
-
 .list li button {
   cursor: pointer;
   background: none;
@@ -123,7 +119,6 @@ input[type="checkbox"] {
   padding: 0.8rem;
   transform: translateY(2px);
 }
-
 .stats {
   background-color: #76c7ad;
   text-align: center;
